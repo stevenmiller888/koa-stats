@@ -14,6 +14,7 @@ Gather stats for your Koa app
 ## Example
 
 ```js
+var stats = require('koa-stats');
 var koa = require('koa');
 var app = koa();
 

@@ -1,0 +1,19 @@
+{
+  "name": "koa-stats",
+  "description": "Gather stats for your Koa app",
+  "repository": "git://github.com/stevenmiller888/koa-stats.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "koa",
+    "middleware",
+    "stats"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "koa": "^0.17.0",
+    "mocha": "1.x",
+    "supertest": "^0.15.0"
+  }
+}

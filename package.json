@@ -2,7 +2,7 @@
   "name": "koa-stats",
   "description": "Gather stats for your Koa app",
   "repository": "git://github.com/stevenmiller888/koa-stats.git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "lib/index.js",
   "keywords": [

@@ -2,14 +2,11 @@
 # koa-stats
 
 Gather stats for your Koa app
+  ![](http://cl.ly/image/3v0q0Z3G3o3v/Screen%20Shot%202015-02-14%20at%207.50.05%20PM.png)
 
 ## Installation
 
     $ npm install koa-stats
-
-## Demo
-
-  ![](http://cl.ly/image/1M0z2k2c3y07/Screen%20Shot%202015-02-13%20at%204.30.36%20PM.png)
 
 ## Example
 
